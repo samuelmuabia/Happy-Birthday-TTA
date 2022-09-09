@@ -16,7 +16,7 @@ body {
 }
 
 #card, #card-front, #card-inside {
-  height: 90vh
+  height: 900px;
 }
 
 .wrap {
